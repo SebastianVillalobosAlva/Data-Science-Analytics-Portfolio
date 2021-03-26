@@ -1,5 +1,5 @@
 # Data-Science-Analytics-Portfolio
-Python Data Science/Analytics Portfolio
+Python Data Science/Analytics Portfolio :notebook_with_decorative_cover:
 
 ### Contents are subject to copyright.
     
@@ -13,8 +13,9 @@ A repository of the projects I've worked on or currently working on. It is updat
 ### Version
 ![Version](https://img.shields.io/static/v1?message=Python_V3.7&style=flat&logo=python&color=blue&logoWidth=40&logoColor=yellow&label=%20)<Version>
 
-## Contributing  <Reporting issues>
-  <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
+## Authors and Contributing  <Reporting issues>
+    * Developers.- SebastianV, JVZ37
+<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 Contribution is welcomed on component (or project if there is no component for that project).
 To contribute to <project_name>, follow these steps:
 
