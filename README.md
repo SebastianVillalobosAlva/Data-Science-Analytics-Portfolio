@@ -1,5 +1,5 @@
 # Data-Science-Analytics-Portfolio
-Python Data Science/Analytics Portfolio
+Python Data Science/Analytics Portfolio :notebook_with_decorative_cover:
 
 ### Contents are subject to copyright.
     
